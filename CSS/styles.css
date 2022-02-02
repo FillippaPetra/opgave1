@@ -1,0 +1,15 @@
+.card{
+    font-family: Garamond;
+    font-weight: bold;
+    font-size: large;
+    color: #444444;
+    text-align: justify;
+    background-color: #989898;
+    padding-top: 5px;
+    padding-bottom: 5px;                 
+}
+.image{
+    max-width: 50%;
+    height: auto;
+    border-radius: 50%;
+}
